@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791373153 source:c:\users\admin\desktop\mierzenie czasu\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<algorithm>
+	<stack>
+	<queue>
+	<random>
+	<iomanip>
+
